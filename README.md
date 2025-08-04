@@ -1,6 +1,6 @@
 # 🎬 IMDB Movie Sales Analysis (Power BI Dashboard)
 
-![Dashboard Screenshot](./238c56d6-2d1b-462d-996d-45d2ac503a1a.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📊 Project Overview
 
